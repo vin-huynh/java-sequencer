@@ -1,2 +1,2 @@
 # java-sequencer
-a music sequencer in java
+A music sequencer in java I made in high school!
