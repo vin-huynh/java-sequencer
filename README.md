@@ -7,6 +7,6 @@ Full ranges of tempi and octaves are supported.
 
 The executable jar file is located at
 
-> Sequencer/dist/Sequencer.jar
+```Sequencer/dist/Sequencer.jar```
 
 Please check it out!
